@@ -17,6 +17,7 @@ Este projeto tem como objetivo demonstrar como consumir a API ViaCEP para obter 
 - Visual Studio (ou outra IDE para desenvolvimento em C#)
 - .NET Framework 4.7.2 ou superior
 - RestSharp (biblioteca para requisições HTTP)
+- Newtonsoft.Json (biblioteca para manipulação de JSON)
 
 ## Como Usar
 
