@@ -1,6 +1,6 @@
 ﻿namespace ViaCep_WinForms
 {
-    partial class Form1
+    partial class FrmViaCep
     {
         /// <summary>
         /// Variável de designer necessária.

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ViaCep_WinForms
 {
-    public partial class Form1 : Form
+    public partial class FrmViaCep : Form
     {
-        public Form1()
+        public FrmViaCep()
         {
             InitializeComponent();
         }
